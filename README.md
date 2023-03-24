@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/my-first-challenge-qrcodecomponentmain--cTI7T6rS2)
+- Live Site URL: [Live site with github](https://unl00ky.github.io/qr-code-challenge/)
 
 ## My process
 
@@ -39,7 +39,7 @@ I learned about vh and vw
 ## Author
 
 - Github - [unl00ky](https://github.com/unl00ky)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@unl00ky](https://www.frontendmentor.io/profile/unl00ky)
 
 
 
